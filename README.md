@@ -62,11 +62,11 @@
 1. **下载项目**
 ```bash
 # 方式一：Git 克隆（推荐）
-git clone https://github.com/yourusername/DormMaster.git
+git clone https://github.com/chu0119/DormMaster.git
 cd DormMaster
 
 # 方式二：下载压缩包
-# 访问 https://github.com/yourusername/DormMaster/releases
+# 访问 https://github.com/chu0119/DormMaster/releases
 # 下载并解压
 ```
 
@@ -292,7 +292,7 @@ UPDATE users SET password = '$2y$10$...' WHERE username = 'admin';
 
 如有问题或建议，请通过以下方式联系：
 - 提交 Issue
-- 发送邮件至：your-email@example.com
+
 
 ---
 
